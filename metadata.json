@@ -1,0 +1,5 @@
+{
+  "name": "Car Rental Agency",
+  "description": "A comprehensive car rental system with separate agency and customer portals, allowing agencies to manage fleets and customers to book rentals.",
+  "requestFramePermissions": []
+}
